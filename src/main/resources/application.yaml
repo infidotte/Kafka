@@ -1,0 +1,6 @@
+spring:
+  application.name: kafka-project
+  kafka.bootstrap-servers: "localhost:9092"
+topic:
+  kafka-topic: kafka-topic
+  group-id: consumers
